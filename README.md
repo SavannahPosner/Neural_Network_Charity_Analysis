@@ -46,5 +46,5 @@ I changed the number of layers I had, the algorithms I used and the number of ne
 
 
 ### Summary:
-By using the relu,sigmoid, and linear algorithms, I was able to achieve 50% accuracy. 
-I would recommend to continue to work with the neurons to see if a higher accuracy can be achieved. 
+By using the relu, sigmoid, and linear algorithms, I was able to achieve 50% accuracy. 
+I would recommend to continue to work with the neurons to see if a higher accuracy can be achieved. Alternatively a different machine learning module can be used. By using supervised learning such as a Random Forest Classifier it is possible to yeild more favorable resutls. 
